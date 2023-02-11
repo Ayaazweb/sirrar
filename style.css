@@ -1,0 +1,189 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.header{
+  background-image: url(../image/Banner1.jpg);
+  min-height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.nav-link{
+  color: #fff;
+  font-weight: 500px;
+  font-size: 18px;
+} 
+.nav-link:hover{
+  color: #FB2056;
+}
+h6{
+  color: #fff;
+  text-align: center;
+}
+h1{
+  color: #fff;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 20px;
+}
+h1:hover{
+  color: #FB2056;
+}
+.btn{
+ background-color: #FB2056;
+ color: #fff;
+ font-size: 17px;
+ padding: 10px 20px;
+ border-radius: 20px;
+ margin-top: 20px; 
+}
+.height{
+  min-height: 90vh;
+  align-items: center;
+}
+.About{
+
+}
+.About h5{
+  color: #282828;
+  text-align: center;
+  margin-top: 100px;
+}
+.About h2{
+  color: #070707;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 20px;
+  text-shadow: #202020;
+}
+.About h2:hover{
+  color: rgb(255, 0, 0);
+}
+.Ispum{
+
+}
+.Ispum p{
+  border: 0;
+  font-size: 100%;
+  font-style: inherit;
+  font-weight: inherit;
+  margin: 0;
+    margin-bottom: 0px;
+  outline: 0;
+  padding: 0;
+  vertical-align: baseline;
+  margin-bottom: 1.6em;
+  text-align: center;
+  font-size: 100%;
+  margin-top: 40px;
+  font-family: sans-serif;
+  break-after: auto;
+}
+.Service{
+  background-image: url(../image/beach.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 60px;
+  margin-top: 60px;
+  box-shadow: #070707;
+}
+.Service h5{
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+
+}
+.Service h3{
+  color: #fff;
+  text-align: center;
+  font-size: 150%;
+
+
+}
+.Service span{
+
+
+}
+.Right_sight{
+
+}
+.Right_sight h2{
+  color: #fff;
+  text-align: center;
+ font-weight: bold;
+  font-size: 30px;
+  margin-top: 60%;
+}
+.Project{
+
+}
+.Project h5{
+  color: #282828;
+  text-align: center;
+  margin-top: 100px;
+}
+.Project h2{
+  color: #070707;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 20px;
+  text-shadow: #202020;
+}
+.Image_Section{
+  background: #f3f2f2;
+  padding: 80px;
+}
+.container{
+  text-align: center;
+  margin-bottom: 70px;
+
+}
+.container img{
+  width: 300px;
+  margin: auto;
+  vertical-align: middle;
+  display: flex;
+}
+
+.container h4{
+  font-weight: bold;
+  margin-top: 20px;
+
+}
+.container p{
+
+}
+.get{
+
+}
+.h2{
+  font-size: 2rem;
+  text-align: center;
+  font-weight: bold;
+}
+
+a{
+  background-color: #FB2056;
+  color: #fff;
+  font-size: 17px;
+  padding: 10px 20px;
+  border-radius: 30px;
+  margin-top: 20px;
+  text-decoration: none;
+ text-align: center;
+ text-shadow: #282828;
+}
+
